@@ -1,0 +1,20 @@
+# info for praw
+client_id: <client_id>
+client_secret: <client_secret>
+user_agent: <user_agent>
+
+# username and password from your reddit account
+username: <username>
+password: <password>
+
+# your telegram bot token
+telegram_bot_token: <telegram_bot_token>
+
+# name of subbreddit
+subreddit: <subreddit>
+
+# hot, top or new
+type_content: <type_content>
+
+# name of your channel
+channel_name: @<channel_name>
