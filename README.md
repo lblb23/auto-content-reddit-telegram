@@ -8,8 +8,8 @@ Example of autoposting content (only pictures) from subreddit "Instagramreality"
 1. Create a Reddit App. Manual: https://www.storybench.org/how-to-scrape-reddit-with-python/
 2. Create own Telegram bot. Manual: https://core.telegram.org/bots
 3. Create own Telegram channel. 
-4. Add telegram bot to admins of your channel
-5. Edit config.yml with your info
+4. Add telegram bot to admins of your channel.
+5. Edit config.yml with your info.
 5. Run main.py
 ```
 python3 main.py
