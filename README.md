@@ -1,7 +1,5 @@
 # Autocontent from Reddit to Telegram
-Example of autoposting content (only pictures) from subreddit "Instagramreality"
-
-[Implementation](https://t.me/reddit_instagramreality)
+Example of autoposting content (only pictures) from subreddit "Instagramreality" [[Implementation]](https://t.me/reddit_instagramreality)
 
 ## Getting Started
 
