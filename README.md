@@ -21,7 +21,7 @@ python3 main.py
 2. Upload files to server or clone repo.
 3. Add daily scheduled task:
 ```
-python3 /home/{YOUR_USERNAME}/auto-content-reddit-telegram/main.py -c /home/{YOUR_USERNAME}/auto-content-reddit-telegram/config.yml
+python3 /home/{YOUR_USERNAME}/auto-content-reddit-telegram/main.py --config /home/{YOUR_USERNAME}/auto-content-reddit-telegram/config.yml
 ```
 
 ## Database of content
