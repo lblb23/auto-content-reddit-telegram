@@ -9,7 +9,7 @@ Example of autoposting content (only pictures) from subreddit "Instagramreality"
 2. Create own Telegram bot. Manual: https://core.telegram.org/bots
 3. Create own Telegram channel. 
 4. Add telegram bot to admins of your channel.
-5. Edit config.yml with your info.
+5. Edit config.yaml with your info.
 5. Run main.py
 ```
 python3 main.py
