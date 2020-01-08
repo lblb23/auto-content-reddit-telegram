@@ -1,8 +1,6 @@
 # Autocontent from Reddit to Telegram
 Example of autoposting content (only pictures) from subreddit "Instagramreality"
 
-[Implementation](https://t.me/reddit_instagramreality)
-
 ## Getting Started
 
 1. Create a Reddit App. Manual: https://www.storybench.org/how-to-scrape-reddit-with-python/
